@@ -1,6 +1,6 @@
 # Articles
 
-[Crafting Meaningful 1:1s](https://daydreamsinruby.com/blog/2024-01-11-effective-1-1s/)
+[Crafting Meaningful 1:1s](https://daydreamsinruby.com/blog/2024-01-11-effective-1-1s/)  
 [How to Rands](https://github.com/randsleadershipslack/documents-and-resources/blob/main/howtorands.md)
 [Manage like an Engineer](https://ben.balter.com/2023/01/10/manage-like-an-engineer/)
 [Retrospecting Retrospectives](https://avivbenyosef.com/retrospecting-retrospectives/)
