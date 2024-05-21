@@ -1,9 +1,14 @@
+# Books to Read
+
+[The Manager's Path](https://www.goodreads.com/en/book/show/33369254)
+
 # Articles
 
 [Crafting Meaningful 1:1s](https://daydreamsinruby.com/blog/2024-01-11-effective-1-1s/)\
 [How to Rands](https://github.com/randsleadershipslack/documents-and-resources/blob/main/howtorands.md)\
 [Manage like an Engineer](https://ben.balter.com/2023/01/10/manage-like-an-engineer/)\
 [Retrospecting Retrospectives](https://avivbenyosef.com/retrospecting-retrospectives/)
+[Letting Go](https://medium.com/@royrapoport/letting-go-37ad35a341c4)
 
 # Research Papers
 
@@ -28,3 +33,5 @@
 
 [Roadmaps](https://roadmap.sh/)\
 [Clean Code](https://github.com/mehdihadeli/awesome-software-architecture/blob/main/docs/clean-code.md)
+
+TODO: Perhaps add a list of people I follow on here?
